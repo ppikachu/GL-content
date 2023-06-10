@@ -1,0 +1,692 @@
+[
+	{
+		"nombre": "Silk",
+		"slug": "silk",
+		"poster": "220406-GL_SILK-01_214-v2_D.jpeg",
+		"fotos": [
+			{
+				"src": "220406-GL_SILK-01_214-v2_D.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_SILK-01_240-v8_D.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_SILK-01_433-v9_C.jpeg",
+				"width": "2048",
+				"height": "1366"
+			}
+		]
+	},
+	{
+		"nombre": "Stephanie",
+		"slug": "stephanie",
+		"poster": "220406-GL_STEPHANIE-01_034-v5_C.jpeg",
+		"fotos": [
+			{
+				"src": "220406-GL_STEPHANIE-01_034-v5_C.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_STEPHANIE-01_120-v6_C.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_STEPHANIE-01_306-v4_D.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_STEPHANIE-01_321-v4_D.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_STEPHANIE-02_008-v2_D.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_STEPHANIE-02_216-v1_C.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_STEPHANIE-02_264-v2_B_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			}
+		]
+	},
+	{
+		"nombre": "Michelle",
+		"slug": "michelle",
+		"poster": "220406-GL_MICHELLE-01_199-v5_B_RVB.jpeg",
+		"fotos": [
+			{
+				"src": "220406-GL_MICHELLE-01_027v4_B_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_MICHELLE-01_199-v5_B_RVB.jpeg",
+				"width": "2048",
+				"height": "1251"
+			},
+			{
+				"src": "220406-GL_MICHELLE-02_111-v6_A_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_MICHELLE-02_161-v7_B_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_MICHELLE-04_057-v2_C_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_MICHELLE-04_104-v5_B_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			}
+		]
+	},
+	{
+		"nombre": "Ilaria",
+		"slug": "ilaria",
+		"poster": "220406-GL_ILARIA-01_160-v7_B_RVB.jpeg",
+		"fotos": [
+			{
+				"src": "220406-GL_ILARIA-01_048-v8_A_RVB.jpeg",
+				"width": "1366",
+				"height": "2048"
+			},
+			{
+				"src": "220406-GL_ILARIA-01_060-v7_A_RVB.jpeg",
+				"width": "1366",
+				"height": "2048"
+			},
+			{
+				"src": "220406-GL_ILARIA-01_160-v7_B_RVB.jpeg",
+				"width": "1366",
+				"height": "2048"
+			}
+		]
+	},
+	{
+		"nombre": "Anthony",
+		"slug": "anthony",
+		"poster": "220406-GL_ANTHONY-02_031_A_RVB.jpeg",
+		"fotos": [
+			{
+				"src": "220406-GL_ANTHONY-02_031_A_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_ANTHONY-02_043_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_ANTHONY-02_071_A_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			}
+		]
+	},
+	{
+		"nombre": "Campaña 2022",
+		"slug": "2022",
+		"poster": "220406-GL_ILARIA-_-ANTHONY_158-v2_C_RVB.jpeg",
+		"fotos": [
+			{
+				"src": "220406-GL_ILARIA-_-ANTHONY_158-v2_C_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_ILARIA-_-STEPHANIE-01_140-v11_C_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_ILARIA-_-STEPHANIE-01_150_C_RVB.jpeg",
+				"width": "2048",
+				"height": "1366"
+			},
+			{
+				"src": "220406-GL_SILK-_-MICHELLE_233-v6_D.jpeg",
+				"width": "2048",
+				"height": "1411"
+			},
+			{
+				"src": "/images/galeria/anthony/220406-GL_ANTHONY-02_071_A_RVB.jpeg",
+				"width": "2048",
+				"height": "1411"
+			}
+		]
+	},
+	{
+		"nombre": "Campaña 2021",
+		"slug": "2021",
+		"poster": "14_048-m1.jpg",
+		"fotos": [
+			{
+				"src": "04_016-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "04_022-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "04_064-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "06_065-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "06_098-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "09_008-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "14_048-m1.jpg",
+				"width": "1200",
+				"height": "800"
+			},
+			{
+				"src": "15_010-m1-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "15_064-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "16_145-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "17_033-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "21_064-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "21_083-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "24_034-m3-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "27_038-m1-2-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "27_046-m1-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "28_002-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "28_009-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "30_020-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "33_051-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "33_060-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "34_075-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "35_010-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "35_117-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "36_013-m1-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "36_071-m1-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "36_113-m1-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "36_135-m1-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "37_024-m1-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "Copia-de-14_048-m1.jpg",
+				"width": "911",
+				"height": "800"
+			},
+			{
+				"src": "Copy-of-15_046-1-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			}
+		]
+	},
+	{
+		"nombre": "Campaña 2020",
+		"slug": "2020",
+		"poster": "CAMPAIGN-GROUP-2-1920x1280.jpg",
+		"fotos": [
+			{
+				"src": "CAMPAIGN-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-10-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-11-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "CAMPAIGN-12-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "CAMPAIGN-13-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "CAMPAIGN-14-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-15-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-16-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-17-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "CAMPAIGN-18-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-19-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-2-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-20-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-3-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-4-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-5-1920x1113.jpg",
+				"width": "1920",
+				"height": "1113"
+			},
+			{
+				"src": "CAMPAIGN-6-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "CAMPAIGN-7-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "CAMPAIGN-8-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-9-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-GROUP-1-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "CAMPAIGN-GROUP-2-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			}
+		]
+	},
+	{
+		"nombre": "Campaña 2019",
+		"slug": "2019",
+		"poster": "14chica-1920x1280.jpg",
+		"fotos": [
+			{
+				"src": "01_Anja_chica-1920x1013.jpg",
+				"width": "1920",
+				"height": "1013"
+			},
+			{
+				"src": "01_chica-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "02-00357_d_4cm_verlaengert-1385x1920.jpg",
+				"width": "1385",
+				"height": "1920"
+			},
+			{
+				"src": "03-00715_c-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "03-chica-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "03_Marina_Sel-clip.00_10_46_14.Immagine003-1920x1013.jpg",
+				"width": "1920",
+				"height": "1013"
+			},
+			{
+				"src": "03_Marina_chica-1920x1013.jpg",
+				"width": "1920",
+				"height": "1013"
+			},
+			{
+				"src": "05-00823_f-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "05_Flavia_Sel-clip.00_02_33_13.Immagine003-1920x1013.jpg",
+				"width": "1920",
+				"height": "1013"
+			},
+			{
+				"src": "07chica-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "08-01683_c-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "08chica.jpg",
+				"width": "1200",
+				"height": "1697"
+			},
+			{
+				"src": "09-02096_b-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "10-02320_b-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "12-02775_b-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "12chica-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "13chica-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "14chica-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "total.00_56_16_20.Immagine010-1920x1013.jpg",
+				"width": "1920",
+				"height": "1013"
+			}
+		]
+	},
+	{
+		"nombre": "Jazmín",
+		"slug": "jazmin",
+		"poster": "DSC0269-1920x1272.jpg",
+		"fotos": [
+			{
+				"src": "DSC0108-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0121-1271x1920.jpg",
+				"width": "1271",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0143-1271x1920.jpg",
+				"width": "1271",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0162-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0177-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "DSC0182-1271x1920.jpg",
+				"width": "1271",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0184-1920x1280.jpg",
+				"width": "1920",
+				"height": "1280"
+			},
+			{
+				"src": "DSC0227-1313x1920.jpg",
+				"width": "1313",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0269-1920x1272.jpg",
+				"width": "1920",
+				"height": "1272"
+			},
+			{
+				"src": "DSC0282-1335x1920.jpg",
+				"width": "1335",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0300-1271x1920.jpg",
+				"width": "1271",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0346-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0387-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0436-1271x1920.jpg",
+				"width": "1271",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0554-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0568-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0612-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0637-1280x1920.jpg",
+				"width": "1280",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0675-1408x1920.jpg",
+				"width": "1408",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0733-1920x1271.jpg",
+				"width": "1920",
+				"height": "1271"
+			},
+			{
+				"src": "DSC0923-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0941-1287x1920.jpg",
+				"width": "1287",
+				"height": "1920"
+			},
+			{
+				"src": "DSC0989-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC1549-1272x1920.jpg",
+				"width": "1272",
+				"height": "1920"
+			},
+			{
+				"src": "DSC1574-1506x1920.jpg",
+				"width": "1506",
+				"height": "1920"
+			}
+		]
+	}
+]
